@@ -3,5 +3,5 @@
 Hello world,
 It is my first time at Github.
 
-*first is name
-**first is name
+*First item should be listed
+*Second item is followed
